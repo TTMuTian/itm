@@ -54,3 +54,7 @@ Dataset and code for Intelligent Traffic Monitoring with Distributed Acoustic Se
 - pytorch     2.1.0
 - numpy       1.26.2
 - matplotlib  3.8.0
+
+## Links
+- [About author](https://cig.ustc.edu.cn/dongzi/list.htm)
+- [About research group](https://cig.ustc.edu.cn/main.htm)
